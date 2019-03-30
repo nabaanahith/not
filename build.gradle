@@ -1,0 +1,30 @@
+buildscript {
+    
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://plugins.gradle.org/m2/'}
+
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.0'
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module com.nabaa96.myapplicationnm.build.gradle files
+        classpath 'com.google.gms:google-services:4.0.1'
+
+        classpath 'gradle.plugin.com.onesignal:onesignal-gradle-plugin:[0.11.0, 0.99.99]'
+
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

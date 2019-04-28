@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Saba'a\\Desktop\\notification-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
+            "outputFile": "C:\\Users\\Saba'a\\Desktop\\AndoidApps\\notification-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Saba'a\\.gradle\\caches\\transforms-1\\files-1.1\\firebase-messaging-17.3.3.aar\\a345553df34c560f1c6d51c805dff2b2\\res\\values-si\\values.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Saba'a\\Desktop\\notification-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
+            "outputFile": "C:\\Users\\Saba'a\\Desktop\\AndoidApps\\notification-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Saba'a\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\54eb4e6c5bed1513267a1ba5bfddf403\\res\\values-sl\\values.xml",

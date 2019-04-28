@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Saba'a\\Desktop\\notification-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
+            "outputFile": "C:\\Users\\Saba'a\\Desktop\\AndoidApps\\notification-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rBR\\values-pt-rBR.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Saba'a\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\19ac45cd01e886804fb1925f2f42d042\\res\\values-pt-rBR\\values-pt-rBR.xml",
